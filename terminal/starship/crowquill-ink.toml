@@ -1,0 +1,32 @@
+# Crowquill Ink — Starship palette (monochrome / grayscale)
+# Merge into your ~/.config/starship.toml. The top-level `palette` line
+# selects this palette; the [palettes.crowquill_ink] table defines the colors.
+
+palette = "crowquill_ink"
+
+[palettes.crowquill_ink]
+black = "#000000"
+bg = "#0A0A0A"
+fg = "#B8B8B8"
+white = "#FFFFFF"
+bright_white = "#FFFFFF"
+comment = "#6A6A6A"
+string = "#8C8C8C"
+number = "#D2D2D2"
+keyword = "#FFFFFF"
+cursor = "#FFFFFF"
+selection = "#2A2A2A"
+dim = "#4A4A4A"
+red = "#6A6A6A"
+green = "#8C8C8C"
+yellow = "#B8B8B8"
+blue = "#C6C6C6"
+magenta = "#B4B4B4"
+cyan = "#D2D2D2"
+bright_black = "#4A4A4A"
+bright_red = "#8C8C8C"
+bright_green = "#B8B8B8"
+bright_yellow = "#C6C6C6"
+bright_blue = "#E4E4E4"
+bright_magenta = "#D2D2D2"
+bright_cyan = "#EAEAEA"
