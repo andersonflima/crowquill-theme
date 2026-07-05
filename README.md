@@ -4,6 +4,18 @@ A monochrome black & white theme for editors and terminal — companion to the [
 
 Crowquill Ink is strictly grayscale: no hue, only ink. Backgrounds are near-black, text is muted gray, and the brightest tone (pure white `#FFFFFF`) is reserved for keywords and shell commands so structure reads at a glance.
 
+![Crowquill Ink](preview/hero.png)
+
+## Preview
+
+Dark — fundo preto, fonte branca:
+
+![Crowquill Ink dark](preview/specimen-dark.png)
+
+Light — fundo branco, fonte preta:
+
+![Crowquill Ink light](preview/specimen-light.png)
+
 ## Palette
 
 | Role                | Hex       |
